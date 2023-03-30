@@ -1,4 +1,4 @@
-
+# Original Author: Elizabeth Clayman
 
 def encode(s):
     result = ""
@@ -34,7 +34,12 @@ def main():
             running = False
 
 
-main()
+
+# t = '9999900111222'
+# print(decode(t))
+
+
+# main()
 
 
 
